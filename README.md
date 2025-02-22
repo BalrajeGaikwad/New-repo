@@ -1,4 +1,4 @@
 # New-repo
 
 
-Today i can't doo anything 😔 
+Signals AND Slots 
